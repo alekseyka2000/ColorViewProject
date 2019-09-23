@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ColorViewProject</string>
+    <string name="box_one">Box one</string>
+    <string name="boxTwo">Box two</string>
+    <string name="boxThree">Box three</string>
+    <string name="boxFour">Box four</string>
+    <string name="boxFive">Box five</string>
+    <string name="how_to_play">How to play:</string>
+    <string name="tap_the_screen_and_buttons">Tap the screen and buttons</string>
+    <string name="redButton">Red</string>
+    <string name="yellowButton">Yellow</string>
+    <string name="greenButton">Green</string>
+
+
+
+</resources>
